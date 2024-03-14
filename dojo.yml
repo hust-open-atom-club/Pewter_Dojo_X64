@@ -8,3 +8,12 @@ award:
   belt: Boulder
 
 module:
+  - id: simple_demo
+    name: 简单样例
+    image: 
+  - id: setuid
+    name: SetUID 学习
+    image: Onix
+  - id: pwntools
+    name: Pwntools 使用入门
+    image: Geodude
