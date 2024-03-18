@@ -1,4 +1,4 @@
-TARGET = setuid-backdoor-level1.1
+TARGET = setuid-backdoor-level1.2
 CC     = gcc
 CFLAGS = -Wall -Wextra -Werror
 
