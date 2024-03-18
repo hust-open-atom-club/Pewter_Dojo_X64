@@ -1,4 +1,5 @@
 name: Pwntools 使用入门
 challenges:
-
-resources:
+  - id: pwntools-level-0-0
+    name: 教学关卡
+    level: 1
