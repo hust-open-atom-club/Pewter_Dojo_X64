@@ -1,5 +1,5 @@
 name: SetUID 学习
 challenges:
-  -id: setuid-level-0-0
-   name: 教学关卡
-   level: 1
+  - id: level-0-0
+    name: 教学关卡
+    level: 1
