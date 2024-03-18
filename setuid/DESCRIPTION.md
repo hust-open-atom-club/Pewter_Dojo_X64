@@ -23,6 +23,3 @@ SetUID 允许任何拥有文件执行权限的用户，以当前文件所属者�
 - Level 4.0 - 学习 /usr/bin/python 解释器的语法，并编程实现获取 /flag 
 - Level 4.1 - 学习 /usr/bin/perl 解释器的语法，并编程实现获取 /flag 
 - Level 4.2 - 学习 /usr/bin/ruby 解释器的语法，并编程实现获取 /flag
-
-Reference
-- [Why You Can't Un-Root a Compromised Machine](https://gist.github.com/mudongliang/7b68290c2b4d5da0b7140c8b0e1827d0)
