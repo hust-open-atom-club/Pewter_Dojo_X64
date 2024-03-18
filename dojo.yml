@@ -7,7 +7,7 @@ type: topic
 award:
   belt: Boulder
 
-module:
+modules:
   - id: setuid
     icon: Onix
 
