@@ -9,8 +9,6 @@ award:
 
 module:
   - id: setuid
-    name: SetUID 学习
-    image: Onix
+    icon: Onix
   - id: pwntools
-    name: Pwntools 使用入门
-    image: Geodude
+    icon: Geodude
