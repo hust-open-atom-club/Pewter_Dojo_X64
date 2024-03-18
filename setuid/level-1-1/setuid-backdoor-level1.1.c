@@ -5,7 +5,7 @@
 void print_desc()
 {
 	printf("###\n");
-	printf("### Welcome to ./setuid-backdoor-level1.0!\n");
+	printf("### Welcome to ./setuid-backdoor-level1.1!\n");
 	printf("###\n");
 	printf("\n");
 	printf("This challenge will just expose you some utilities that make you read the flag\n");

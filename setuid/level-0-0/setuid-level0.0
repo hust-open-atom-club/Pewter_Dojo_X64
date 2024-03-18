@@ -2,7 +2,7 @@
 
 if __name__ == '__main__':
     print("###")
-    print("### Welcome to ./setuid-level0.0!")
+    print("### Welcome to ./setuid-backdoor-level0.0!")
     print("###")
     print("")
     print("This challenge will directly read /flag and print it out.")
