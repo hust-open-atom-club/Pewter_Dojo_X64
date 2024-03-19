@@ -61,7 +61,7 @@ resources:
     type: lecture
   #  video: "438064585"
   #  playlist: "BV1mj411M7NZ"
-    slides: 8ix3h81318f480f304ea3a8d2d4e9f1188e48
+    slides: "SetUID"
   - name: "Why You Can't Un-Root a Compromised Machine"
     type: markdown
     content: |
