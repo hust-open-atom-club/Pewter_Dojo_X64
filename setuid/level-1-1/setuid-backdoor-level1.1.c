@@ -6,10 +6,10 @@
 void print_desc()
 {
 	printf("###\n");
-	printf("### Welcome to ./setuid-backdoor-level1.1!\n");
+	printf("### If you feel hard to beat this pokemon, please read and study the description.\n");
+	printf("### Or just skip and try other pokemons.\n");
+	printf("### Have fun :)\n");
 	printf("###\n");
-	printf("\n");
-	printf("This challenge will just expose you some utilities that make you read the flag\n");
 }
 
 int main()
