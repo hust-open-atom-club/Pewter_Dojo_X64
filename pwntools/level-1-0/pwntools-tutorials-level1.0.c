@@ -3,6 +3,7 @@
 #include <string.h>
 #include <sys/stat.h>
 #include <errno.h>
+#include"util.h"
 
 void print_desc()
 {
