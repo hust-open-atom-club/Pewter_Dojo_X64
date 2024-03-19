@@ -7,7 +7,7 @@ type: topic
 comparator: 1000
 
 award:
-  belt: Boulder
+  emoji: Boulder
 
 modules:
   - id: setuid
