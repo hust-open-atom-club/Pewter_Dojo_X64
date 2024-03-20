@@ -3,14 +3,6 @@
 #include <errno.h>
 #include"util.h"
 
-void print_desc()
-{
-	printf("###\n");
-	printf("### If you feel hard to beat this pokemon, please read and study the description.\n");
-	printf("### Or just skip and try other pokemons.\n");
-	printf("### Have fun :)\n");
-	printf("###\n");
-}
 
 int main()
 {
@@ -40,6 +32,8 @@ int main()
 	free(flag);
 	flag = NULL;
 	fclose(fp);
+
+	print_exit();
 
 	return 0;
 }

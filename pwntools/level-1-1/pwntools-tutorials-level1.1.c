@@ -5,14 +5,6 @@
 #include <errno.h>
 #include"util.h"
 
-void print_desc()
-{
-	printf("###\n");
-	printf("### If you feel hard to beat this pokemon, please read and study the description.\n");
-	printf("### Or just skip and try other pokemons.\n");
-	printf("### Have fun :)\n");
-	printf("###\n");
-}
 
 void print_flag()
 {
@@ -76,5 +68,7 @@ int main()
 		printf("You need to bypass some conditions to get the flag: \n");
 		printf("Please refer to the source code to understand these conditions\n");	
 	}
+
+	print_exit();
 	return 0;
 }

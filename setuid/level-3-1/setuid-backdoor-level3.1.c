@@ -3,14 +3,6 @@
 #include <errno.h>
 #include"util.h"
 
-void print_desc()
-{
-	printf("###\n");
-	printf("### If you feel hard to beat this pokemon, please read and study the description.\n");
-	printf("### Or just skip and try other pokemons.\n");
-	printf("### Have fun :)\n");
-	printf("###\n");
-}
 
 int main()
 {
@@ -36,5 +28,7 @@ int main()
 	printf("I just set the SUID bit on /usr/bin/chown\n");
 	printf("Try to understand /usr/bin/chown and elaborately retrieve the flag\n");
 
+	print_exit();
+	
 	return 0;
 }
