@@ -60,12 +60,12 @@ resources:
     type: lecture
     video: "405113607"
     playlist: "BV1oG411o7A4"
-    slides: 8ix3hd077c6d708884e81bfe938af6896532d
+    slides: Pwntools
   - name: "gdb 结合 pwntools 调试教程"
     type: lecture
     video: "532863345"
     playlist: "BV1Du411N7c9"
-    slides: 8ix3h99526e066f1646c9811a13688f6e7efb
+    slides: GDB
   - name: "References"
     type: markdown
     content: |
