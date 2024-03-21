@@ -55,6 +55,7 @@ def print_image(pokemon_name, filename):
 		return -1
 
 	print("")
+	sleep(2)
 	print_str_color(f"{pokemon_name}!", "cyan")
 
 def print_desc_name(pokemon_name):
