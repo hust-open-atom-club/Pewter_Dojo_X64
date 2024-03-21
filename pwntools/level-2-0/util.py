@@ -26,7 +26,7 @@ def print_str_color(text, color):
 
 def get_abs_path(filename):
 	"""Gets the absolute path of a file relative to the current executable."""
-	dir_path = os.path.dirname(filename)
+	dir_path = os.path.dirname(__file__)
 	if dir_path is None:
 		return None
 	return os.path.join(dir_path, filename)

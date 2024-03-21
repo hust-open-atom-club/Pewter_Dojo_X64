@@ -11,6 +11,8 @@ import pwnlib.asm
 from unicorn import *
 from unicorn.x86_const import *
 from capstone import *
+
+sys.path.append('/challenge/')
 from util import *
 
 
