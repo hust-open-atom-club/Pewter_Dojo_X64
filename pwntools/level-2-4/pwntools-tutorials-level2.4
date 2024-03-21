@@ -122,6 +122,7 @@ class ASMBase:
         self.emu.emu_start(begin, until)
 
     def run(self):
+        print_desc()
         print(
             f"""
             Welcome to {self.name}
@@ -172,6 +173,7 @@ class ASMBase:
             print(open("/flag").read())
         else:
             print("Sorry, no flag :(.")
+            print_exit()
         return won
 
 
