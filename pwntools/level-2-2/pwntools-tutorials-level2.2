@@ -12,6 +12,8 @@ from unicorn import *
 from unicorn.x86_const import *
 from capstone import *
 
+sys.path.append('/challenge/')
+from util import *
 
 pwnlib.context.context.update(arch="amd64")
 builtin_print = print

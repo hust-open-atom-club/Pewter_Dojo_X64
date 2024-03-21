@@ -1,5 +1,10 @@
 #!/opt/pwn.college/python
 
+import sys
+
+sys.path.append('/challenge/')
+from util import *
+
 if __name__ == '__main__':
     print("###")
     print("### Welcome to ./setuid-backdoor-level0.0!")
